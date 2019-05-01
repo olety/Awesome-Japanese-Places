@@ -3,7 +3,7 @@
 ## 東京
 
 ### 仕事
-- [The Hive Jinnan Tuesday](https://thehivejinnan.com/ja/) - Coworking space, free every Tuesday
+- [The Hive Jinnan](https://thehivejinnan.com/ja/) - Coworking space, free every Tuesday
 
 ### 食事
 - Nice 餃子 place in 渋谷商店街 past Wendy’s
