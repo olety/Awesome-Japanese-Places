@@ -1,75 +1,110 @@
-やってみたいこと・行ってみたいところ
+# Awesome-Japanese-Places
 
 仕事
-The Hive Jinnan Tuesday free
+![The Hive Jinnan Tuesday](https://thehivejinnan.com/ja/) - Coworking space, free every Tuesday
 
 食事
 Nice 餃子 place in 渋谷商店街 past Wendy’s
 https://www.eggsnthingsjapan.com/food/
 https://www.31ice.co.jp
+![三藤](http://mitsu-fuji.com/) - Gourmet ramen
+![Million Dollar Café(愛知県)](https://www.tofugu.com/travel/million-dollar-cafe/)
+![Fishing Restaurant Zauo](http://www.zauo.com/)
+![ペッパーランチ](https://www.pepperlunch.com/) - Steakhouse in 新宿
+
+Food experience
+![Owl cafe](https://www.owlvillage.jp/harajuku.html)
+![Hedgehog cafe](http://www.harinezumi-cafe.com/en/)
+![Cat cafe](http://catmocha.jp/shibuya/)
+![Robot restaurant](http://www.shinjuku-robot.com/pc/index.php)
+![Misaki Magura](https://www.haneda-tokyo-access.com/en/info/misakimagro/index.html) - Best tuna ever
+![Starbucks Reserve Roastery](https://www.starbucks.co.jp/roastery/) - Largest Starbucks in the world (中目黒, long queue)
+![KIRIN brewery tour](https://www.kirin.co.jp/entertainment/factory/english/beer/)
+![Cup Noodle Museum Yokohama](https://www.cupnoodles-museum.jp/ja/)
 
 遊園地
-(1hr travel time) https://www.fujiq.jp/shop/
-東京ディズニーランド
+![FUJIQ](https://www.fujiq.jp/shop/)
+![東京ディズニーランド](https://www.tokyodisneyresort.jp/tdl/)
+![東京ジョイポリス](http://tokyo-joypolis.com/)
+
+アート・美術館・博物館
+![Team lab - Borderless](https://borderless.teamlab.art/jp/)
+![Team lab - Planets](https://planets.teamlab.art/tokyo/)
+![Trick art museum](http://www.trickart.info/)
+![みなとみらい](http://minatomirai21.com/)
+![日本科学未来館](https://www.miraikan.jst.go.jp/)
+![TeNQ space museum](https://www.tokyo-dome.co.jp/en/tourists/tenq/)
+![JAL SKY MUSEUM](https://www.jal.co.jp/kengaku/)]
+![SONY Imaging gallery / Showroom Ginza](https://www.sony.co.jp/united/imaging/gallery/)
+![国立科学博物館](http://www.kahaku.go.jp/)
+![Toshiba science museum](http://toshiba-mirai-kagakukan.jp/en/)
+![Nissan world gallery](http://www.nissan.co.jp/GALLERY/HQ/)
+
+運動・アクティブ
+![Parkour](http://missionparkourpark.com)
+![Alpen route](https://www.alpen-route.com/) - Snow tunnel
+![Aqua park](http://www.aqua-park.jp/aqua/en/index.html)
+https://store.montbell.jp/sp/search/shopinfo/?shop_no=618851
+
+カラオケ
+![Halong salon 自由が丘](http://www.karaoke-mokomoko.com/store/halong-salon-jiyugaoka/) - Unlimited ice cream
+
+公園・動物園
+上野動物園
+上野公園の美術館、博物館、仏像、
+新宿行園
+目黒川 - One of the best 花見 spots
+等々力渓谷公園
+
+Shopping
+![浅草 仲見世](http://www.asakusa-nakamise.jp/)
+シーリングスタンプ 銀座 伊東屋
+紀伊國屋
+
+アニメ
+![Ghibli museum](http://www.ghibli-museum.jp/)
+![Pokemon center](https://www.pokemoncenter-online.com/)
+![One Piece tower](https://onepiecetower.tokyo/)
+![Sanrio Gift Gate (hello kitty) Ikebukuro](https://www.sanrio.co.jp/shop/sh4431100/)
+
+Nightlife
+http://www.300bar.com/
+
+
+鎌倉
+What to do in Kamakura
+
 
 色々
-シーリングスタンプ 銀座 伊東屋
-上野動物園
-紀伊國屋
-https://borderless.teamlab.art/jp/
-Trick art museum
-ロボットレストラン
-http://missionparkourpark.com
-Owl cafe
-Hedgehog cafe https://www.govoyagin.com/ja/activities/japan-tokyo-play-with-cute-hedgehogs-at-a-cafe-in-roppongi-tokyo/6374?acode=japan-wireless
-http://catmocha.jp/shibuya/
-Halong salon 
-https://www.alpen-route.com/
-https://www.haneda-tokyo-access.com/en/info/misakimagro/index.html
-みなとみらい
-東京ジョイポリス
-横浜
-新宿行園
+
+
 皇居
-目黒川 桜
-上野公園の美術館、博物館、仏像、
-鎌倉
-浅草
-仲見世
-未来館
-三藤
-Million Dollar Café(愛知)
-Fishing Restaurant Zauo
-http://www.300bar.com/
-http://www.aqua-park.jp/aqua/en/index.html
-https://onepiecetower.tokyo/
-http://www.ghibli-museum.jp/
+
+
+
+
+
 長野(白馬、軽井沢)　危険
-轟渓谷
+
 Hitchhike to 北海道
 Random train trip around Japan - local train (buy tickets in jr)
-https://store.montbell.jp/sp/search/shopinfo/?shop_no=618851
+
 ポークたまごおにぎり (沖縄)
-三宝山 (デネブ、アルタイル、ベガ)
-ferris wheel cabin in an amusement park
-walk along the river late at night
 A beach in Odaiba
-Pokemon center Mega Tokyo Ikebukuro
-Sanrio Gift Gate (hello kitty) Ikebukuro
-ペッパーランチ 新宿
-Starbucks reserve roastery 中目黒
-Toshiba science museum
-JAL SKY MUSEUM
-KIRIN brewery tour
-Nissan world gallery
-SONY Imaging gallery / Showroom ginza
-Cup Noodle Museum Yokohama 
-化学美術館
-Ghibli Museum
-Tenq space museum
+
+
+
+
+
+
+
+
+
+
+
+
 
 豊洲
-チームラボ
 カラオケToyosu melody
 Park
 Restaurant
@@ -87,19 +122,9 @@ Railroad museum
 京都
 Nijou castle
 
-家での遊び
-トランプ
-ボードゲーム
-ユーチューブカラオケ
-一緒に漫画を読む
-
 すずかけ台
 マラバル
 
 武蔵小山
 商店街 
 ルーフ
-
-
-
-
